@@ -1,0 +1,31 @@
+"0","commit_df_fun <- function(oneCommitRecord){"
+"0","  df_commit <- data.frame("
+"0","  author=oneCommitRecord$commit$author$name,"
+"0","  commiter=oneCommitRecord$commit$committer$name,"
+"0","  commitDate=oneCommitRecord$commit$committer$date,"
+"0","  sha=oneCommitRecord$sha,"
+"0","  stringsAsFactors=F"
+"0","  )"
+"0","  return(df_commit)"
+"0","}"
+"0","commit_df_fun"
+"1","function(oneCommitRecord){
+"
+"1","  df_commit <- data.frame(
+"
+"1","  author=oneCommitRecord$commit$author$name,
+"
+"1","  commiter=oneCommitRecord$commit$committer$name,
+"
+"1","  commitDate=oneCommitRecord$commit$committer$date,
+"
+"1","  sha=oneCommitRecord$sha,
+"
+"1","  stringsAsFactors=F
+"
+"1","  )
+"
+"1","  return(df_commit)
+"
+"1","}
+"

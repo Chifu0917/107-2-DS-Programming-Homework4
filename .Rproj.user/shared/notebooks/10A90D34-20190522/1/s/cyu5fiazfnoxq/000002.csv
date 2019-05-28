@@ -1,0 +1,5 @@
+"0","library(lubridate)"
+"0","fromTzone <- ymd_hms(""1973-02-21 12:05:22"", tz=""America/New_York"")"
+"0","toTzone <- with_tz(utctime1,tzone=""Asia/Taipei"")"
+"2","Error in is.data.frame(time) : object 'utctime1' not found
+"

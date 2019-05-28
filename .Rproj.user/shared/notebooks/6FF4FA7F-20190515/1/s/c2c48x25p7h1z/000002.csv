@@ -1,0 +1,15 @@
+"0","colnames(StuDF2)[c(2,3)] <- c(""姓名"",""成績"")"
+"2","Warning message:
+"
+"2","In strsplit(code, ""\n"", fixed = TRUE) :"
+"2","
+ "
+"2"," input string 1 is invalid in this locale
+"
+"0","colnames(StuDF2)"
+"1","[1]"
+"1"," ""col1"""
+"1"," ""姓名"""
+"1"," ""成績"""
+"1","
+"

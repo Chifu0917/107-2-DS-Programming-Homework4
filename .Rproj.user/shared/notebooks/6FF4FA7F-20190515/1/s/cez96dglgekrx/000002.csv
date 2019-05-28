@@ -1,0 +1,7 @@
+"0","lovefunction <- function(x,.alpha){lovevalue <- x *.alpha "
+"0","return(lovevalue)}"
+"0","lovefunction(13,40)"
+"1","[1]"
+"1"," 520"
+"1","
+"

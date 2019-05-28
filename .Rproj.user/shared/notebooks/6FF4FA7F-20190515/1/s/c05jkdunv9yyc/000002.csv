@@ -1,0 +1,7 @@
+"0","supply_fun <- function(a,b,P){"
+"0","  Qs <- a+b*P"
+"0","  return(Qs)}"
+"0","demand_fun <- function(c,d,P){"
+"0","  Qd <- c-d*P"
+"0","  return(Qd)"
+"0","}"

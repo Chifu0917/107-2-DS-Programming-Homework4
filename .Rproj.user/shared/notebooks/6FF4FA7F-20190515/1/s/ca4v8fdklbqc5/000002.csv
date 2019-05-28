@@ -1,0 +1,3 @@
+"0","logiAsiaCrisis <- exData3$isAsiaCrisis"
+"2","Unknown or uninitialised column: 'isAsiaCrisis'."
+"0","exData3[logiAsiaCrisis, ]"

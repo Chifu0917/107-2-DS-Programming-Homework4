@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559013756659.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "975189093",
+    "id" : "F52C28A",
+    "lastKnownWriteTime" : 1558515733,
+    "last_content_update" : 1559013825152,
+    "path" : "C:/Users/User/Desktop/107-2-inclass-practice/20190522.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "189,12",
+        "last_setup_crc32" : "77481741bb338d19",
+        "scrollLine" : "171"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
